@@ -1,0 +1,30 @@
+react
+
+npm intall react react-dom
+
+snippets:
+    https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets
+
+
+//snippets: imr, slr
+
+
+-App.jsx : 
+    import React from 'react';
+
+    //snippets: imr, slr
+    const App = () => {
+        return (
+            <h1>hola mundo</h1>
+        );
+    }
+
+    export default App;
+
+
+index.js:
+
+    import React from 'react';
+    import reactDom from 'react-dom';
+
+    ReactDOM.render(<app/>, document.getElementById('app'));
