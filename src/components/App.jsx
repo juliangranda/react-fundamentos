@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../styles/global.scss';
 //snippets: imr, slr
 const App = () => {
     return (

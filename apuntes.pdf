@@ -47,3 +47,9 @@ HTML plugin:
 
 -configuracion de .babelrc
 -configuracion de webpack
+
+------------------------------------------------------------------------------------------------
+-configuracion html,css,sass en webpack
+
+
+npm instal mini-css-extract-plugin css-loader style-loader sass sass-loader -D
