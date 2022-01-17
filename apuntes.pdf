@@ -42,3 +42,8 @@ npm install webpack webpack-cli webpack-dev-server
 HTML plugin:
 
  npm install babel-loader html-loader html-webpack-plugin
+
+
+
+-configuracion de .babelrc
+-configuracion de webpack
