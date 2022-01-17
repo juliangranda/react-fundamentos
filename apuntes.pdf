@@ -53,3 +53,9 @@ HTML plugin:
 
 
 npm instal mini-css-extract-plugin css-loader style-loader sass sass-loader -D
+
+
+-----------------------------------------------------------------------------------------------
+react-router
+
+npm install react-router-dom
